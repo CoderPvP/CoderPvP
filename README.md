@@ -1,6 +1,6 @@
 ### Moin Moin 👋
 
-- 🔭 Ich arbeite aktuell an [Error707](https://github.com/Error707MC) (Das ist ein [Minecraft](https://minecraft.net) Server)
+- 🔭 Ich arbeite aktuell an Irrgendeinem Projekt haha
 - 📫 Kontakt: [Discord](https://discord.com/users/932337218272505956)
 
 <h2><img style="width: 2%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-plain.svg" /> Languages & Co</h2>
